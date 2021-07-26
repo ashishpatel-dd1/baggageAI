@@ -1,5 +1,7 @@
 # baggageAI
 
+AUTHOR :- Ashish patel
+
 BaggageAI Computer Vision
 Case Study:- Image Processing
 
@@ -9,5 +11,49 @@ into the background images using image processing techniques in python.
 # project structure
 
 ![dir baggageAI](https://github.com/ashishpatel-dd1/baggageAI/blob/main/ss/Screenshot%202021-07-26%20230115.jpg?raw=true)
+
+
+background_images  :- contains all original background images provided
+
+
+final_out :- contains all final output iamges that sre to be used for assessment
+
+
+masks :- auto generated masksed images of threat images
+
+
+resized :- auto generated, resized and rotated threat image files
+
+
+resized_masks :- auto generated resized and rotated masked images
+
+
+ss :- contains screenshots used in the present README.md
+
+
+threat_images :- contains all original images provided
+
+
+
+# *alternate files, to be used for improving softwware*
+**NOT FOR ASSESSMENT PURPOSE**
+
+
+*threats_resized :- alternate resized, rotated images saved after running the threat.py script mentioned below at line 54*
+
+
+*adaptive_thresholding.py :- test script to implement openCV adaptive thresholding*
+
+
+*baggage_blend.py :- blending and pasting threat_images to background_images* **PRIMITIVE STAGE**
+
+
+*test.ipynb :- temperory jupyter notebook used for testing purpose*
+
+
+*threat.py :- NOT A VIRUS. alternate more automatized method for rotating, resizing, threat_images
+
+
+
 
 
