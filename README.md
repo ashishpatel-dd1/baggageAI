@@ -35,23 +35,30 @@ threat_images :- contains all original images provided
 
 
 
-# *alternate files, to be used for improving softwware*
+# *Alternate files, to be used for improving software*
 **NOT FOR ASSESSMENT PURPOSE**
 
 
-*threats_resized :- alternate resized, rotated images saved after running the threat.py script mentioned below at line 54*
+*threats_resized :- alternate resized, rotated images saved after running the threat.py script mentioned below*
 
 
 *adaptive_thresholding.py :- test script to implement openCV adaptive thresholding*
 
 
-*baggage_blend.py :- blending and pasting threat_images to background_images* **PRIMITIVE STAGE**
+*baggage_blend.py :- blending and pasting threat_images to background_images*  **(PRIMITIVE STAGE)**
 
 
 *test.ipynb :- temperory jupyter notebook used for testing purpose*
 
 
-*threat.py :- NOT A VIRUS. alternate more automatized method for rotating, resizing, threat_images
+*threat.py :- NOT A VIRUS. alternate more automatized method for rotating, resizing, threat_images*  **(TO BE USED ALONG WITH baggage_blend.py)**
+
+
+# ****SOLUTION FILES****
+
+**final_out** :- final output images to be considered for assessment
+
+**baggageAI.ipynb** :- final program jupyter notebook for assessment
 
 
 
