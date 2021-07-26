@@ -1,6 +1,6 @@
 # baggageAI
 
-AUTHOR :- Ashish patel
+AUTHOR :- **Ashish Patel**
 
 BaggageAI Computer Vision
 Case Study:- Image Processing
